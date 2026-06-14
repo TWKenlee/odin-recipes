@@ -1,0 +1,27 @@
+.warp {
+  border: 2px solid #00b8ff;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+a {
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+  border: 2px solid #00ff9f;
+  padding: 3px;
+}
+
+li {
+  display: inline-block;
+}
+
+h2 {
+  float: left;
+  border: 2px solid #00ff9f;
+  padding: 3px;
+}
+
+h1 {
+  border: 2px solid #00ff9f;
+  padding: 3px;
+}
